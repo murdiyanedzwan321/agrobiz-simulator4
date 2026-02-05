@@ -1,7 +1,7 @@
 # AgroBiz Simulator: Studi Kasus VCO (Virgin Coconut Oil)
 
 **Nama Pengembang:** Murdiyan Edzwan Nazib  
-**NIM:** [NIM ANDA]  
+**NIM:** [206230006]  
 **Proyek:** Digital Agro Systems - Factory Feasibility Calculator
 
 ## Deskripsi Aplikasi
